@@ -1,7 +1,8 @@
-package com.inplayer.zapp.sample
+package com.inplayer.zapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.inplayer.zapp.sample.R
 
 class MainActivity : AppCompatActivity() {
 

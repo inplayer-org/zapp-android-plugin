@@ -1,4 +1,4 @@
-package com.inplayer.zapp.sample
+package com.inplayer.zapp
 
 import android.app.Application
 import com.sdk.inplayer.configuration.InPlayer
