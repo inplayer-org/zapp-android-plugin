@@ -1,2 +1,3 @@
 rootProject.name='InZapp'
 include ':app'
+include ':kit'
