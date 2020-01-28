@@ -6,23 +6,23 @@
   },
   "dependency_repository_url": [
     {
-      "url": "https://dl.bintray.com/applicaster-ltd/maven_plugins/"
+      "url": "https://inplayer-org.bintray.com/inplayer-org/"
     }
   ],
   "platform": "android",
-  "author_name": "Denis Razumeev, Alex Khomich",
-  "author_email": "d.razumeev@applicaster.com",
+  "author_name": "Darko Sarev",
+  "author_email": "sarevd@gmail.com",
   "manifest_version": "0.0.1",
-  "dependency_version": "0.0.1",
-  "name": "Login and Payments Start Kit",
-  "description": "'Content Access Plugins Starter Kit",
+  "dependency_version": "0.0.2",
+  "name": "InPlayer Login and Payments Plugin",
+  "description": "",
   "cover_image": "",
   "type": "login",
   "screen": true,
   "preload": true,
-  "identifier": "StarterKit",
+  "identifier": "InPlayerLoginPlugin",
   "ui_builder_support": true,
-  "dependency_name": "com.applicaster:kit",
+  "dependency_name": "com.inplayer:kit",
   "whitelisted_account_ids": [
     "5c9ce7917b225c000f02dfbc"
   ],
